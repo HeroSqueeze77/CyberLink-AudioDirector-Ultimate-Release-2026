@@ -1,0 +1,23 @@
+{
+  "repo": "cyberlink-audiodirector-ultimate-release-2026",
+  "product": "CyberLink AudioDirector Ultimate Release 2026",
+  "kind": "audio",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "audio",
+  "topics": [
+    "cyberlink-audiodirector",
+    "audio-post",
+    "multitrack-mix",
+    "dialogue-cleanup",
+    "sound-design-suite",
+    "audiodirector-setup-failed-fix",
+    "how-to-install-audiodirector",
+    "audiodirector-windows",
+    "audiodirector-desktop-2026",
+    "audiodirector-desktop-package"
+  ],
+  "site": "toolix.me"
+}
